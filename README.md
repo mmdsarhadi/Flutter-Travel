@@ -1,16 +1,20 @@
 # travel
+<p>Welcome!</p>
+<h2>Screenshots</h2>
+<div align="center">
+  <img src="https://github.com/mmdsarhadi/Flutter-Travel/blob/master/1%20(1).png" width="300">
+  <img src="https://github.com/mmdsarhadi/Flutter-Travel/blob/master/1%20(2).png" width="300">
+  <img src="https://github.com/mmdsarhadi/Flutter-Travel/blob/master/1%20(3).png" width="300">
 
-A new Flutter project.
+</div>
 
-## Getting Started
+<h2>Installation</h2>
+<p>To run this app locally, you will need to have Flutter installed. Clone this repository, navigate to the project directory, and run the following commands:</p>
 
-This project is a starting point for a Flutter application.
+<pre>
+<code>flutter pub get
+flutter run</code>
+</pre>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you have any ideas for improvements or find any issues, please open an issue or submit a pull request.</p>
